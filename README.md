@@ -1,7 +1,7 @@
 # ENCAPS   ![](static/favicon-32x32.png)
 
 
-### A ML curated study tool deployed on web that helps the students to prepare with their tests and assignments at the last moment.sunglasses ###
+### A ML curated study tool deployed on web that helps the students to prepare with their tests and assignments at the last moment. sunglasses ###
 
 # What on earth is this ?
 
